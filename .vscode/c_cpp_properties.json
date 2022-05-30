@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/usr/include/libxml2"
+            ],
+            "defines": [],
+            "intelliSenseMode": "${default}"
+        }
+    ],
+    "version": 4
+}
